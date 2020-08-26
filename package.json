@@ -1,0 +1,17 @@
+{
+  "name": "elstroy",
+  "version": "1.0.0",
+  "description": "Gulp theme for worpress",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Gulp",
+    "Wordpress",
+    "WP",
+    "GulpWP"
+  ],
+  "author": "Uhomuho",
+  "license": "ISC"
+}
